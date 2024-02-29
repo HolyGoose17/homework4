@@ -65,7 +65,7 @@ body{
     color: inherit;
     /* outline: 1px solid blue; */
     /* vertical-align: middle; */
-    transform: translateY(-50%);
+    /* transform: translateY(-50%); */
 }
 
 .cardRight h2{
